@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">androidStudio_service_27</string>
+    <string name="Hw27_title">Service 練習</string>
+    <string name="Hw27_start">Play</string>
+    <string name="Hw27_stop">Stop</string>
+</resources>
